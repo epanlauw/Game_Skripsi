@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Gameplay1.unity
+    guid: 61c4444802be46943a19fc30c69fc66e
+  - enabled: 1
+    path: Assets/Scenes/Gameplay2.unity
+    guid: ffeda310a2ce5984d8efd4d812f561a1
+  - enabled: 1
+    path: Assets/Scenes/Gameplay3.unity
+    guid: 3e1830020a1cd7349b332d14e095402f
+  - enabled: 1
+    path: Assets/Scenes/Battle1.unity
+    guid: 993bf767e2e2a7f4097911d7f9f18477
+  - enabled: 1
+    path: Assets/Scenes/Battle2.unity
+    guid: 9cadb8836c3063c4e8cb36bae1d9d3ac
+  - enabled: 1
+    path: Assets/Scenes/Battle3.unity
+    guid: 4c852e2afd7ef1d479f9ee637044d651
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 92867db999d35d24596e84df32942338
+  - enabled: 1
+    path: Assets/Scenes/BossBattle.unity
+    guid: 08b8cabb15ddfde43a33998871986670
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: d4190bc9529bd0e409ef954c8c43ecc2
+  m_configObjects: {}
